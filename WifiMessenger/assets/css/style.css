@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+    font-size:larger;
+}
+a {
+    font-weight: bold;
+}
+.bottom_space {
+    height: 15vh;
+}
+.step_body {
+    padding-left: 2%;
+}
+.text_gray {
+    color:rgb(56, 56, 56);
+}
+.text_light_gray {
+    color:rgb(82, 82, 82);
+}
+.h1_1 {
+    font-size: 1.9rem;
+    font-weight: bolder;
+}
+.h2 {
+    font-size: 1.7rem;
+}
